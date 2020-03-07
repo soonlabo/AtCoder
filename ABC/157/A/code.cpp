@@ -3,6 +3,12 @@
 
 using namespace std;
 
+/**
+ * @file code.cpp
+ * @brief ABC157-A
+ * @author soon
+ * @date 2020.03.02
+ */
 int main()
 {
     int N, A;
